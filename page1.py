@@ -79,13 +79,13 @@ class Ui_MainWindow(object):
         self.textEdit.setGeometry(QtCore.QRect(210, 190, 141, 31))
         self.textEdit.setObjectName("textEdit")
 
-        self.textEdit.setText("wpmwnmvkrqdltxjj")
+        self.textEdit.setText("password")
 
         #This is the password text field
         self.textEdit_2 = QtWidgets.QTextEdit(self.centralwidget)
         self.textEdit_2.setGeometry(QtCore.QRect(210, 110, 141, 31))
         self.textEdit_2.setObjectName("textEdit_2")
-        self.textEdit_2.setText("artificali.project@gmail.com")
+        self.textEdit_2.setText("gmail.com")
         MainWindow.setCentralWidget(self.centralwidget)
 
 
