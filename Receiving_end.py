@@ -8,8 +8,6 @@ def recieving(EMAIL,PASSWORD):
     print("I am here")
     inbox = []
 
-    #EMAIL= 'artificali.project@gmail.com'
-    #PASSWORD = 'wpmwnmvkrqdltxjj'
 
 
     SERVER = 'imap.gmail.com'
@@ -163,8 +161,8 @@ def recieving(EMAIL,PASSWORD):
 """
 
 This is for practice purpose
-EMAIL = 'artificali.project@gmail.com'
-PASSWORD = 'wpmwnmvkrqdltxjj'
+EMAIL = ''
+PASSWORD = ''
 a=recieving('artificali.project@gmail.com','wpmwnmvkrqdltxjj')
 answer=""
 for b in a:
