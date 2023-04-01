@@ -3,9 +3,9 @@ import smtplib
 """
 server= smtplib.SMTP('smtp.gmail.com',587)
 server.starttls()
-username = 'artificali.project@gmail.com'
+username = ''
 
-password = '32444647'
+password = ''
 server.login(username,password)
 server.sendmail(username,password,"This mail is for practice purpose")
 print("mail sent")
@@ -73,6 +73,6 @@ def sending(from_addr,to_addrs,messagee):
 
 
 
-from_addr = 'artificali.project@gmail.com'
+from_addr = ''
 
-to_addrs = ['hiraafirdous@gmail.com']
+to_addrs = ['']
