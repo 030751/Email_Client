@@ -25,7 +25,7 @@ def sending(from_addr,to_addrs,messagee):
 
         # use username or email to log in
 
-        #username = 'artificali.project@gmail.com'
+        #username = ''
         username =from_addr
 
         if (from_addr==''):
