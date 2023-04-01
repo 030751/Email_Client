@@ -28,10 +28,10 @@ def sending(from_addr,to_addrs,messagee):
         #username = 'artificali.project@gmail.com'
         username =from_addr
 
-        if (from_addr=='artificali.project@gmail.com'):
-                password = 'wpmwnmvkrqdltxjj'
-        if (from_addr=='hooriaa44@gmail.com'):
-                password = 'bsfegtytmldnkgtf'
+        if (from_addr==''):
+                password = ''
+        if (from_addr==''):
+                password = ''
 
 
 
